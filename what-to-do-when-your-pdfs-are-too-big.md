@@ -2,7 +2,8 @@
 # What to Do When Your PDFs are Too Big to Send!
 
 When scanning and emailing large documents sometimes we can run to issues being able to send the files with some email providers. Most providers will have no issue as long as its under 25MB but smaller providers or those who self host may not be able to receive anything over 7-10MB. Knowing this there is a few things we can do to either reduce the file size from the beginning while scanning or there are a few options to reducing an already created and unwieldy PDF file.
-
+<br>
+<br>
 ## Scanning Options
 
 ### Input
@@ -19,7 +20,8 @@ To OCR poor quality documents prefer 300 DPI grayscale scanning.For documents wi
 The PDF file. Most applications allow for only very basic PDF save settings. Usually this is a High, Med, Low compression setting. For most  cases medium will be fine. Making the document searchable does NOT carry the same heavy file size overhead that color and gray scale do. Everyone likes a searchable PDF.  If you are having issues with a particularly large file then to can try scanning in black and high first then trying a higher compression level which produces the smallest file size. However, we have options for compressing the file further after it's created if need be. We will go over those later.
 
 If you are an employee that has a scanner and their desk and regularly have issues with PDF file sizes and none of these options are going to help you in a way that is productive, please send us an email so we can see about tweaking some of the default scan settings in your program.
-
+<br>
+<br>
 ## Adobe Acrobat Pro
 
 If you are using Acrobat Pro or Acrobat DC Pro then a flurry of new options open up. Including options to optimize the file which will reduce the file size and can also perform OCR at the same time. There is also options to simply further compress the file.  
@@ -29,17 +31,27 @@ If you are using Acrobat Pro or Acrobat DC Pro then a flurry of new options open
 **PDF Optimizer**. If the file is still too large after performing Step 1 above, try the PDF Optimizer. In Acrobat Pro, choose File > Save As Other > Optimized PDF Go to Settings in the window that opens and select Custom, and change the Downsample to 75 ppi for both Color and Grayscale Images. That should substantially reduce file size. See image below. After reducing file save, open the new smaller file, and review the content to make sure formatting has not been compromised. Occasionally, reducing file size might alter some of the layout, format, or images.
 
 ![](src/images/acrobat-pdf-optimizer.png)
-
+<br>
+<br>
 ## Adobe Online Compression Tool
 
 Adobe now offers a free online compression tool. HERE  This tool allows you to either drag and drop or select the PDF document you need to shrink and then processes the document and allows you to download your new smaller file. This is cumbersome but likely the easiest and most foolproof way to shrink and existing file that you have been struggling to send. It also doesn't require any additional or special software that you may or may not have. If you find yourself using this tool often please contact IT support for a better solution.
 
 
+![](src/images/adobe-online-tool.png)
+
+<br>
+
 
 ## Share Over the Cloud w/ OneDrive
 Using OneDrive, simply share a link to the file with the client or persons which you need to send the file to. If OneDrive is configured on your PC then its as simple as finding the file you want to share and dragging it to your OneDrive folder if its not already there. Then right click  > OneDrive > Share.
+<br>
+
 
 >If OneDrive is NOT configured on your PC please contact us to get that taken care of. While signing in is an easy process, the install asks some configuration options that would best be addressed by IT.
+
+
+<br>
 
 ## DocuSign
 
