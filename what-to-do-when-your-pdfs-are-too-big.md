@@ -12,7 +12,7 @@ Pictures or photos destined for printing or DTP work usually need higherresoluti
 300 DPI is recommended for documents destined for OCR text extraction. (Search and Editable PDF File)
 To OCR poor quality documents prefer 300 DPI grayscale scanning.For documents with very small text, 400 DPI black & white scanning may be best.
 
-![alt](\src\images\paperport-scan-options.png)
+![alt]("\src\images\paperport-scan-options.png")
 
 ### Output
 
