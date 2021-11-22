@@ -12,7 +12,7 @@ Pictures or photos destined for printing or DTP work usually need higherresoluti
 300 DPI is recommended for documents destined for OCR text extraction. (Search and Editable PDF File)
 To OCR poor quality documents prefer 300 DPI grayscale scanning.For documents with very small text, 400 DPI black & white scanning may be best.
 
-![alt](src\images\paperport-scan-options.png)
+![alt](src/images/paperport-scan-options.png)
 
 ### Output
 
@@ -28,11 +28,12 @@ If you are using Acrobat Pro or Acrobat DC Pro then a flurry of new options open
 
 **PDF Optimizer**. If the file is still too large after performing Step 1 above, try the PDF Optimizer. In Acrobat Pro, choose File > Save As Other > Optimized PDF Go to Settings in the window that opens and select Custom, and change the Downsample to 75 ppi for both Color and Grayscale Images. That should substantially reduce file size. See image below. After reducing file save, open the new smaller file, and review the content to make sure formatting has not been compromised. Occasionally, reducing file size might alter some of the layout, format, or images.
 
-![](src\images\acrobat-pdf-optimizer.png)
+![](src/images/acrobat-pdf-optimizer.png)
 
 ## Adobe Online Compression Tool
 
 Adobe now offers a free online compression tool. HERE  This tool allows you to either drag and drop or select the PDF document you need to shrink and then processes the document and allows you to download your new smaller file. This is cumbersome but likely the easiest and most foolproof way to shrink and existing file that you have been struggling to send. It also doesn't require any additional or special software that you may or may not have. If you find yourself using this tool often please contact IT support for a better solution.
+
 
 
 ## Share Over the Cloud w/ OneDrive
