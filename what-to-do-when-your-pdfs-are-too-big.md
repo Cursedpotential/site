@@ -1,7 +1,7 @@
 
 # What to Do When Your PDFs are Too Big to Send!
 
-When scanning and emailing large documents sometimes we can run to issues being able to send the files with some email providers. Most providers will have no issue as long as its under 25MB but smaller providers or those who self host may not be able to receive anything over 7-10MB. Knowing this there is a few things we can do to either reduce the file size from the beginning while scanning or there are a few options to reducing an already created and unwieldy PDF file.
+When scanning and emailing large documents sometimes we can run into issues being able to send those files to some email addresses. Most providers will have no issue as long as its under 25MB but smaller providers or those who self host may not be able to receive anything over 7-10MB. Knowing this there is a few things we can do to either reduce the file size from the beginning while scanning or a few options for reducing an already created and unwieldy PDF file.
 <br>
 <br>
 ## Scanning Options
@@ -26,7 +26,7 @@ If you are an employee that has a scanner and their desk and regularly have issu
 
 If you are using Acrobat Pro or Acrobat DC Pro then a flurry of new options open up. Including options to optimize the file which will reduce the file size and can also perform OCR at the same time. There is also options to simply further compress the file.  
 
-**The Reduce Size feature**. The location of the Reduce File Size feature depends on your version of Adobe Acrobat. In Acrobat Pro, choose File > Save As Other > Reduced Size PDF. 2. For “Make compatible with”, you select the version compatibility that you need. If you choose 8.0, anyone with Adobe Reader 8 and higher can open the file. OK. Save as a new file name (so you still have the original elsewhere). Check the size of the resulting file and compare to the original file. It should be less than half the size of the original. If it is small enough you are done. 
+**The Reduce Size feature**. In Acrobat Pro, choose File > Save As Other > Reduced Size PDF. OK. Save as a new file name (so you still have the original elsewhere). Check the size of the resulting file and compare to the original file. It should be less than half the size of the original. If it is small enough you are done. 
 
 **PDF Optimizer**. If the file is still too large after performing Step 1 above, try the PDF Optimizer. In Acrobat Pro, choose File > Save As Other > Optimized PDF Go to Settings in the window that opens and select Custom, and change the Downsample to 75 ppi for both Color and Grayscale Images. That should substantially reduce file size. See image below. After reducing file save, open the new smaller file, and review the content to make sure formatting has not been compromised. Occasionally, reducing file size might alter some of the layout, format, or images.
 
@@ -48,7 +48,9 @@ Using OneDrive, simply share a link to the file with the client or persons which
 <br>
 
 
->If OneDrive is NOT configured on your PC please contact us to get that taken care of. While signing in is an easy process, the install asks some configuration options that would best be addressed by IT.
+>If OneDrive is NOT configured on your PC please contact us to get that taken care of. Signing in is an easy process, the install asks some configuration questions that would best be addressed by IT for data backup reasons. 
+
+ Click [HERE](mailto:support@drmich.org) to send email to Support now!
 
 
 <br>
@@ -60,8 +62,26 @@ More to come later on DocuSign!
 
 ## Still Need Some Help???
 If you are still stuck with a file that's too big to send, or have trouble with any of the steps above, please contact support@drmich.org for assistance. 
-Resources
+
+## Resources
+
+- A Site dedicated to the PDF file format will more nerdy info than anyone could ever need about a single file format. They also have best practices for scanning and processing PDF files. 
+
+https://talkingpdf.org/key-best-practices-for-document-scanning/
 
 
+- Adobe Acrobat Online Compression Tool 
 
+https://documentcloud.adobe.com/link/acrobat/compress-pdf
 
+- Adobes (Very indepth) Guide on Optimzing PDF Files in Acrobat Pro
+
+https://helpx.adobe.com/acrobat/using/optimizing-pdfs-acrobat-pro.html
+
+- Microsoft OneDrive Online - You can directly upload to the site and share the file from there if OneDrive is not installed on your PC.
+
+https://mpasorg.onedrive.com
+
+- A document from the US courts that has some really great info on PDF optimization as well as file size comparisons.
+
+https://ksd.uscourts.gov/wp-content/uploads/2016/10/6-24-13-Optimization-of-PDF-Files-to-Reduce-File-Size.pdf
